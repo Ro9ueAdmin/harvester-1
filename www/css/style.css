@@ -1,0 +1,23 @@
+a{
+    text-decoration: none;
+    font: white;
+}
+
+body{
+    background-color: #3b5997;
+    color: white;
+    font-family: sans-serif;
+}
+
+input{
+    width: 320px;
+    height: 25px;
+    border: none;
+    font-size: 14px;
+}
+
+#submit{
+    cursor: pointer;
+    background-color: #223b73;
+    color: white;
+}
